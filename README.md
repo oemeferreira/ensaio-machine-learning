@@ -151,17 +151,6 @@ Cada análise proporcionou insights valiosos sobre o comportamento dos algoritmo
 
 A análise comparativa dos algoritmos de Machine Learning revelou insights notáveis. Foi observado que diferentes parâmetros afetam significativamente o desempenho dos algoritmos, destacando a importância do ajuste fino de hiperparâmetros.
 
-### Influência dos Parâmetros:
-
-- Nos algoritmos de classificação, o ajuste do número de vizinhos no KNN e a profundidade da árvore no Decision Tree Classifier mostraram impactos consideráveis na precisão e no recall.
-- Em regressão, a regularização em modelos lineares provou ser fundamental na prevenção do overfitting, especialmente em conjuntos de dados com alta dimensionalidade.
-- Para os algoritmos de clusterização, a seleção do número de clusters no K-Means influenciou diretamente a pontuação da Silhueta, afetando a clareza da segmentação.
-
-### Padrões e Descobertas:
-
-Algoritmos não-paramétricos como o Random Forest tendem a superar os paramétricos em conjuntos de dados com complexidades variadas.
-A eficácia do Affinity Propagation em identificar o número ótimo de clusters foi particularmente notável, sugerindo sua utilidade em aplicações onde a pré-definição de clusters não é viável.
-
 ## Conclusões
 
 As descobertas deste estudo sublinham a complexidade e a necessidade de considerar múltiplos aspectos ao aplicar algoritmos de Machine Learning. A escolha e o ajuste de um algoritmo dependem intrinsecamente da natureza do conjunto de dados e do problema específico. Essa compreensão é crucial para avançar no campo do Machine Learning, pois destaca a importância da personalização na aplicação de algoritmos, em vez de depender de abordagens padronizadas.

@@ -8,7 +8,7 @@ Este projeto consiste em uma análise detalhada e comparativa de algoritmos de M
 
 A importância do Machine Learning reside na sua habilidade de processar grandes volumes de dados e extrair padrões e insights, o que é fundamental na era do Big Data. Esta característica torna-o indispensável para a tomada de decisões baseadas em dados, otimização de processos e inovação contínua. Além disso, a adaptabilidade dos algoritmos de Machine Learning a diferentes tipos de dados e contextos os torna ferramentas valiosas para uma ampla gama de aplicações práticas.
 
-## Objetivos do Projeto
+### Objetivos do Projeto
 
 Este projeto visa realizar uma análise comparativa abrangente de algoritmos de Machine Learning, focando especificamente nas categorias de Classificação, Regressão e Clusterização. 
 
@@ -38,19 +38,6 @@ Os conjuntos de dados foram selecionados com base em critérios de diversidade, 
 - **Conjunto de Dados de Treinamento:** Utilizado para ajustar os modelos. A escolha visou dados representativos das condições reais de aplicação dos algoritmos.
 - **Conjunto de Dados de Validação:** Empregado para o ajuste fino de hiperparâmetros, selecionado para avaliar a generalização dos modelos além do treinamento.
 - **Conjunto de Dados de Teste:** Usado para avaliar o desempenho final dos modelos, escolhido para testar a eficácia dos algoritmos em condições inéditas.
-
-### Ferramentas e Tecnologias Utilizadas
-
-O projeto foi desenvolvido utilizando uma série de ferramentas e tecnologias de ponta no campo de Machine Learning e análise de dados:
-
-- **Python (versão 3.10.9):** Linguagem de programação escolhida pela sua robustez, flexibilidade e ampla aceitação na comunidade de ciência de dados.
-- **Jupyter Lab:** Utilizado para desenvolvimento interativo e documentação do processo de análise.
-- **Scikit-learn (versão 1.2.1):** Biblioteca de Machine Learning em Python, escolhida pela sua vasta coleção de algoritmos e ferramentas para análise de dados.
-- **Plotly (versão 5.9.0) e Seaborn (versão 0.12.2):** Ferramentas de visualização de dados para a criação de gráficos interativos e informativos.
-- **NumPy (versão 1.23.5) e Pandas (versão 1.5.3):** Bibliotecas para manipulação e análise de dados em Python, essenciais para o tratamento dos conjuntos de dados.
-- **Matplotlib (versão 3.7.0) e Yellowbrick (versão 1.5):** Utilizados para visualizações estáticas e diagnósticos de modelos.
-
-Esta combinação de algoritmos, conjuntos de dados e ferramentas tecnológicas foi cuidadosamente selecionada para garantir uma análise rigorosa, relevante e atualizada das técnicas de Machine Learning.
 
 ## Desenvolvimento
 
